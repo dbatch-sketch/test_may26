@@ -1,2 +1,2 @@
 # test_may26
-Test repo for Into to Scientific Computing course, UoY
+Test repo for Intro to Scientific Computing course, UoY
